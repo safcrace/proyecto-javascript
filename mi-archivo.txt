@@ -1,3 +1,3 @@
-¡Hola FreeCodeCaamp!
+¡Hola JavaScript!
 
 Estoy aprendiendo Git.
